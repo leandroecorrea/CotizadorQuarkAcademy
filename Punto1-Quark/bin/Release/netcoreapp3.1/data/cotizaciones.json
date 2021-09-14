@@ -1,2 +1,5 @@
-{"PrendaCotizada":{"Precio":1390.5,"CalidadPrenda":0},"PrendaName":"Camisa manga corta - cuello mao est\u00E1ndar","IDCotizacion":1,"IDVendedor":1,"UnidadesCotizadas":1,"FechaCotizacion":"2021-09-14T15:56:23.3000453-03:00","TotalCotizacion":1390.5}
-{"PrendaCotizada":{"Precio":122,"CalidadPrenda":0},"PrendaName":"Camisa manga larga est\u00E1ndar","IDCotizacion":2,"IDVendedor":2,"UnidadesCotizadas":1,"FechaCotizacion":"2021-09-14T15:56:42.3429255-03:00","TotalCotizacion":122}
+{"PrendaCotizada":{"Price":1122,"Quality":0},"PrendaName":"Camisa manga larga est\u00E1ndar","IDCotizacion":1,"IDVendedor":1,"Units":2,"CotizacionDate":"2021-09-14T16:48:02.4016087-03:00","TotalCotizacion":2244}
+{"PrendaCotizada":{"Price":122,"Quality":0},"PrendaName":"Camisa manga larga est\u00E1ndar","IDCotizacion":2,"IDVendedor":1,"Units":22,"CotizacionDate":"2021-09-14T16:48:15.9709345-03:00","TotalCotizacion":2684}
+{"PrendaCotizada":{"Price":1,"Quality":0},"PrendaName":"Camisa manga larga est\u00E1ndar","IDCotizacion":3,"IDVendedor":1,"Units":1,"CotizacionDate":"2021-09-14T16:49:04.8410265-03:00","TotalCotizacion":1}
+{"PrendaCotizada":{"Price":1212,"Quality":0},"PrendaName":"Camisa manga larga est\u00E1ndar","IDCotizacion":4,"IDVendedor":122,"Units":33,"CotizacionDate":"2021-09-14T16:49:29.5512874-03:00","TotalCotizacion":39996}
+{"PrendaCotizada":{"Price":88,"Quality":0},"PrendaName":"Pantalon chup\u00EDn est\u00E1ndar","IDCotizacion":5,"IDVendedor":11,"Units":1,"CotizacionDate":"2021-09-14T16:49:48.2084812-03:00","TotalCotizacion":88}
